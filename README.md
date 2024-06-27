@@ -1,18 +1,8 @@
 <h1>Restaurant Service</h1>
 
 <p>
-Descreva aqui um resumo do app
+API RESTful para criação de menu para um restaurante
 </p>
-
-<h3>
-Como contribuir? 🦾🧠
-</h3>
-
-<ol>
-<li>Faça um Fork do Repositório</li>
-<li>Clone o projeto para o seu repositório local: <b>git clone link</b>.</li>
-<li>Adicione o repositório principal como um repositório remoto: <b>git remote add upstream https://github.com/NeanderFontes/restaurant-with-java-springboot.git</b></li>
-</ol>
 
 <h3>
 Tecnologias Utilizadas 💻
