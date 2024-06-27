@@ -13,6 +13,7 @@ Tecnologias Utilizadas 💻
 <li>Springboot</li>
 <li>JPA/Hibernate</li>
 <li>MySQL</li>
+<li>Java JDBC</li>
 <li>Api RESTful</li>
 <li>Lombok</li>
 <li>Maven</li>
