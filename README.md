@@ -10,15 +10,15 @@ Tecnologias Utilizadas 💻
 
 <ol>
 <li>Java 17</li>
-<li>Springboot</li>
-<li>JPA/Hibernate</li>
+<li>Springboot 3</li>
+<li>Springboot DATA/JPA</li>
+<li>Springboot MVC</li>
+<li>Dozer Mapper</li>
 <li>MySQL</li>
 <li>Java JDBC</li>
 <li>Api RESTful</li>
-<li>Lombok</li>
 <li>Maven</li>
 <li>Git/Github</li>
-<li>Dozer</li>
 </ol>
 
 <p>
